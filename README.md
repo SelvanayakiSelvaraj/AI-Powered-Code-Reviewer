@@ -79,27 +79,27 @@ User → Frontend (React + Vite)
 
 ## 📂 Project Structure
 
-```
+```plaintext
 AI-Powered-Code-Reviewer/
 │
-├── backend/                        # Node.js + Express Backend
-│   ├── config/                     # Database configuration
-│   ├── controllers/                # Route controllers
-│   ├── middlewares/                # Auth & error middlewares
-│   ├── models/                     # MongoDB models
-│   ├── routes/                     # API routes
-│   ├── services/                   # Gemini AI service
-│   └── server.js                   # Entry point
+├── backend/                         # Node.js + Express Backend
+│   ├── config/                      # Database configuration
+│   ├── controllers/                 # Route controllers
+│   ├── middlewares/                 # Auth & error middlewares
+│   ├── models/                      # MongoDB models
+│   ├── routes/                      # API routes
+│   ├── services/                    # Gemini AI service
+│   └── server.js                    # Entry point
 │
-├── frontend/                       # React + Vite Frontend
+├── frontend/                        # React + Vite Frontend
 │   ├── src/
-│   │   ├── components/             # Reusable UI components
-│   │   ├── context/                # Auth & Theme context
-│   │   ├── pages/                  # Application pages
-│   │   └── services/               # API service layer
+│   │   ├── components/              # Reusable UI components
+│   │   ├── context/                 # Auth & Theme context
+│   │   ├── pages/                   # Application pages
+│   │   └── services/                # API service layer
 │   └── index.html
 │
-├── Documents/                      # Project Documentation
+├── Documents/                       # Project Documentation
 │   ├── Project_Overview.md
 │   ├── API_Documentation.md
 │   ├── Database_Documentation.md
@@ -108,9 +108,9 @@ AI-Powered-Code-Reviewer/
 │   └── User_Manual.md
 │
 ├── README.md
-├── .env.example                    # Environment variable template
-├── docker-compose.yml              # Docker configuration
-└── start.bat                       # Quick start script (Windows)
+├── .env.example                     # Environment variable template
+├── docker-compose.yml               # Docker configuration
+└── start.bat                        # Quick start script (Windows)
 ```
 
 ---
