@@ -202,20 +202,8 @@ GEMINI_API_KEY=your_gemini_api_key
 > 💡 Refer to `.env.example` for the full list of required variables.
 
 ---
-
-## 📚 Documentation
-
-Detailed documentation is available in the [`Documents/`](./Documents) folder:
-
-| Document | Description |
-|---|---|
-| 📄 [Project Overview](./Documents/Project_Overview.md) | High-level project summary |
-| 🏗️ [System Architecture](./Documents/System_Architecture.md) | Architecture & design decisions |
-| 📡 [API Documentation](./Documents/API_Documentation.md) | All REST API endpoints |
-| 💾 [Database Documentation](./Documents/Database_Documentation.md) | Schema & collections |
-| 🧠 [Prompt Engineering](./Documents/Prompt_Engineering.md) | Gemini AI prompt design |
-| 👤 [User Manual](./Documents/User_Manual.md) | Step-by-step usage guide |
-
+Web URL : https://ai-powered-code-reviewer-cyan.vercel.app/
+ 
 ---
 
 ## 🎯 Future Enhancements
